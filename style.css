@@ -1,0 +1,30 @@
+body{
+    background-image: url(images/background.jpg);
+}
+.container{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    border: 3px groove rgb(199, 124, 50);
+    border-radius: 6px;
+    border-style: dashed;
+    padding: 50px;
+    margin: auto;
+    background-color: rgb(251, 241, 231, 0.95);
+    justify-content: center;
+    height: 640px;
+}
+a{
+    color: black;
+    font-size: 28px;
+    text-shadow: 2px 2px 5px rgb(199, 124, 50);
+}
+a:hover{
+    color: brown;
+}
+a:link{
+    text-decoration: none;
+}
+li{
+    display: inline;
+}
